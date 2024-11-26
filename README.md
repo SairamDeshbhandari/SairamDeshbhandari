@@ -33,7 +33,7 @@ Let's build something awesome together!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sairam-g-deshbhandari-ba6a70257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sairam-74a27b255" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mr_unique_ram02/profilecard/?igsh=eTJ2dmp6YnJodTNh" target="_blank">
+<a href="https://www.instagram.com/mr_unique_ram02?igsh=MXZ4YmFmZnJjOHhpcw==" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
 </a>
 <a href="https://wa.me/qr/2H7Z5HP5CJF6M1" target="_blank">
